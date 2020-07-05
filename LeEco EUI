@@ -1,0 +1,36 @@
+ Android.mk
+ AndroidSản phẩm.mk
+ BoardConfig.mk
+ README.md
+ audio / audio_pl platform_info.xml
+ âm thanh / mixer_paths_tasha.xml
+ audio / sound_trigger_mixer_paths.xml
+ sinh trắc học / Android.bp
+ sinh trắc học / Sinh trắc họcFingerprint.cpp
+ sinh trắc học / Sinh trắc họcFingerprint.h
+ sinh trắc học / android.hardware.biometrics.fingerprint@2.0-service.leeco_zl1.rc
+ sinh trắc học / dịch vụ.cpp
+ bảng-thông tin
+ cấu hình / nfc / libnfc-nci.conf
+ cấu hình / nfc / libnfc-nxp.conf
+ cấu hình / nfc / libnfc-nxp_RF.conf
+ thiết bị.mk
+ giải nén-file.sh
+ keylayout / fpc1020.kl
+ keylayout / fts_ts.kl
+ keylayout / synaptics.kl
+ keylayout / synaptics_dsx.kl
+ lời nói dối / Android.mk
+ libshims / fakelogprint / fakelogprint.cpp
+ libshims / gxfpd_shim.cpp
+ dòng dõi.dependencies
+ dòng dõi_zl1.mk
+ tệp kê khai
+ lớp phủ / dòng / khung / cơ sở / lõi / res / res / giá trị / lineage_config.xml
+ lớp phủ / khung / cơ sở / lõi / res / res / xml / power_profile.xml
+ lớp phủ / khung / cơ sở / lõi / res / res / xml / power_profile_zl0.xml
+ độc quyền-files.txt
+ sepolicy / private / hwservice_contexts
+ setup-makefiles.sh
+ update-sha1sums.py
+ nhà cung cấp_prop.mk
